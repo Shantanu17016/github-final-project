@@ -7,5 +7,5 @@ A calculator that calculates simple interest given principal, annual rate of int
 - `t` = time period in years
 - `r` = annual rate of interest
 
-  ## Output
-  - Simple interest = p * t * r / 100
+## Output
+- Simple interest = p * t * r / 100
